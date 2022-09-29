@@ -28,3 +28,6 @@ For this challenge, I used HTML & CSS.
 
 ![mockup](/assets/screenshot.png)
 
+## Omar Correa
+https://github.com/omar-correa
+
